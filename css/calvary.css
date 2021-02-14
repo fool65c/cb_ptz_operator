@@ -1,0 +1,69 @@
+img.camera-background {
+    width: 100%
+}
+
+img.preset {
+    width: 100%;
+}
+
+span.preset {
+    color: white;
+    position: absolute;
+    right: 46%;
+    top: 72%;
+}
+
+a.preset {
+    position: absolute;
+    width: 9%;
+}
+
+a.preset-1 {
+    right: 46%;
+    top: 51%;
+}
+
+a.preset-2 {
+    right: 46%;
+    top: 62%;
+}
+
+a.preset-3 {
+    right: 60.5%;
+    top: 66%;
+}
+
+a.preset-4 {
+    right: 37%;
+    top: 64%;
+}
+
+a.preset-5 {
+    right: 27.5%;
+    top: 68%;
+}
+
+a.preset-6 {
+    right: 18%;
+    top: 65%;
+}
+
+a.preset-7 {
+    right: 45.5%;
+    top: 87%;
+}
+
+div.camera-controls {
+    position: absolute;
+    top: 10px;
+    background: #222;
+    right: 0px;
+}
+
+div.camera-preview {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 450px;
+    height: 250px;
+}
